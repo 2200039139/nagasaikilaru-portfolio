@@ -157,7 +157,7 @@ const Navbar = () => {
             <NavLink onClick={() => setIsOpen(!isOpen)} href="#Skills">
               Skills
             </NavLink>
-            <NavLink onClick={() => setIsOpen(!isOpen)} href="#certifications">
+            <NavLink onClick={() => setIsOpen(!isOpen)} href="#Certifications">
               Certifications
             </NavLink>
             <NavLink onClick={() => setIsOpen(!isOpen)} href="#Experience">
