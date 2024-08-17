@@ -168,11 +168,11 @@ const Navbar = () => {
               Education
             </NavLink>
             <NavLink onClick={() => setIsOpen(!isOpen)} href="#certifications">
-              CERTIFICATIONS
+              Certifications
             </NavLink> {/* Added link */}
             <GithubButton
               href={Bio.github}
-              target="_Blank"
+              target="https://github.com/2200039139/nagasaikilaru-portfolio.git"
               style={{
                 background: theme.primary,
                 color: theme.text_primary,
@@ -184,7 +184,7 @@ const Navbar = () => {
         )}
 
         <ButtonContainer>
-          <GithubButton href={Bio.github} target="_Blank">
+          <GithubButton href={Bio.github} target="https://github.com/2200039139/nagasaikilaru-portfolio.git">
             Github Profile
           </GithubButton>
         </ButtonContainer>
