@@ -208,7 +208,7 @@ export const education = [
     id: 0,
     img: "https://uploads-ssl.webflow.com/62ba94fec49a412ca98109d2/62ba94fec49a41b956810a63_Logo31.png",
     school: "KONERU LAKSHMAIAH EDUCATION FOUNDATION, Vaddeswaram",
-    date: "Oct 2021 - Sep 2025",
+    date: "AUG 2023 - Present",
     grade: "9.57 CGPA",
     desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at KONERU LAKSHMAIAH EDUCATION FOUNDATION, Vaddeswaram.I'M a laterly Enter Student thats why I have completed 2 semesters and have a CGPA of 9.57.My specalization is Data Science & Big Data Analysis. I have taken courses in Data Structures,data analsis & visualization,Data Warehouse & Data Mining, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. ",
     degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
