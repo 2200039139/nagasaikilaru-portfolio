@@ -134,7 +134,7 @@ const Navbar = () => {
   return (
     <Nav>
       <NavbarContainer>
-        <NavLogo to="/">Portfolio</NavLogo>
+        <NavLogo to="/">Naga Sai</NavLogo>
 
         <MobileIcon onClick={() => setIsOpen(!isOpen)}>
           <MenuRounded style={{ color: "inherit" }} />
@@ -144,7 +144,6 @@ const Navbar = () => {
           <NavLink href="#About">About</NavLink>
           <NavLink href="#Skills">Skills</NavLink>
           <NavLink href="#Certifications">Certifications</NavLink>
-
           <NavLink href="#Projects">Projects</NavLink>
           <NavLink href="#Education">Education</NavLink>
          
@@ -158,6 +157,9 @@ const Navbar = () => {
             <NavLink onClick={() => setIsOpen(!isOpen)} href="#Skills">
               Skills
             </NavLink>
+            <NavLink onClick={() => setIsOpen(!isOpen)} href="#certifications">
+              Certifications
+            </NavLink>
             <NavLink onClick={() => setIsOpen(!isOpen)} href="#Experience">
               Experience
             </NavLink>
@@ -167,9 +169,7 @@ const Navbar = () => {
             <NavLink onClick={() => setIsOpen(!isOpen)} href="#Education">
               Education
             </NavLink>
-            <NavLink onClick={() => setIsOpen(!isOpen)} href="#certifications">
-              Certifications
-            </NavLink> {/* Added link */}
+             {/* Added link */}
             <GithubButton
               href={Bio.github}
               target="https://github.com/2200039139/nagasaikilaru-portfolio.git"
