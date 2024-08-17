@@ -3,7 +3,6 @@ export const Bio = {
   name: "Kilaru Naga Sai",
   roles: [
     "Full Stack Developer",
-    "Android Developer",
     "Programmer",
   ],
   description:
