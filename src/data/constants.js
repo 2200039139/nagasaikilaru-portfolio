@@ -248,7 +248,7 @@ export const projects = [
       "Three.js"
     ],
     category: "web app",
-    github: "https://github.com/rishavchanda/DecisionHub",
+    github: "https://github.com/2200039139/nagasaikilaru-portfolio.git",
     webapp: "https://decisionhub.netlify.app/",
   },
   
