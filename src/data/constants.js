@@ -210,7 +210,7 @@ export const education = [
     date: "DEC 2020 - JUNE 2023",
     grade: "87.1%",
     desc: "I Have completed my DIPLOMA education in the stream of Computer Mechanical Engineering (DCME) at A.A.N.M & V.V.R.S.R POLYTECHNIC COLLEGE, GUDLAVALLERU, Under AP-SBTET.",
-    degree: "DIPLAMO, Computer Mechanical Engineering (DCME)",
+    degree: "DIPLOMA, Computer Mechanical Engineering (DCME)",
   },
   {
     id: 2,
