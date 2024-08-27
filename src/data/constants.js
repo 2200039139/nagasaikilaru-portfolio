@@ -168,7 +168,6 @@ export const experiences = [
       "Model Development",
       "Data Visualization",
       "Programming Languages",
-      "Model Development",
     ],
     doc: "https://drive.google.com/file/d/1a_BxnYlDPZm7LuK-TUo8wXLBwHmxv8eI/view?usp=drive_link",
   },
