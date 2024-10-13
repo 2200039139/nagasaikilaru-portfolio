@@ -9,7 +9,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/2200039139",
   resume:
-    "https://drive.google.com/file/d/1ylGn62fbMkFJdjF0BcXLylnJu4NiRVgQ/view?usp=sharing",
+    "https://drive.google.com/file/d/1QiM2RV1lsZLwU0YrafCqB47OPpJJfkHE/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/nagasai-kilaru-b9b730255/",
   twitter: " https://x.com/NagaSaiKilaru?t=GC54gz6hEM_02qgrxxWTcQ&s=08 ",
   insta: "https://www.instagram.com/n.a.g.a.s.a.i_2004/",
