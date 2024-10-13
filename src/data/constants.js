@@ -10,9 +10,9 @@ export const Bio = {
   github: "https://github.com/2200039139",
   resume:
     "https://drive.google.com/file/d/1QiM2RV1lsZLwU0YrafCqB47OPpJJfkHE/view?usp=sharing",
-  linkedin: "https://www.linkedin.com/in/nagasai-kilaru-b9b730255/",
+  linkedin: "www.linkedin.com/in/nagasaikilaru",
   twitter: " https://x.com/NagaSaiKilaru?t=GC54gz6hEM_02qgrxxWTcQ&s=08 ",
-  insta: "https://www.instagram.com/n.a.g.a.s.a.i_2004/",
+  insta: "https://www.instagram.com/nagasaikilaru/",
   facebook: "https://www.facebook.com/share/q85EL6q53XG6dhMm/?mibextid=qi2Omg",
 };
 
